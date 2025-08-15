@@ -5,7 +5,7 @@
   <a href="https://manifest.network/"><img alt="Website" src="https://img.shields.io/badge/website-manifest.network-informational"></a>
   <a href="https://docs.manifest.network/"><img alt="Docs: Network" src="https://img.shields.io/badge/docs-network-blue"></a>
   <a href="https://docs.manifestai.org/"><img alt="Docs: Alberto Wallet" src="https://img.shields.io/badge/docs-alberto%20wallet-blue"></a>
-  <a href="https://manifest.explorers.guru/"><img alt="Explorer: Mainnet" src="https://img.shields.io/badge/explorer-mainnet-success"></a>
+  <a href="https://explorer.manifest.network/"><img alt="Explorer: Mainnet" src="https://img.shields.io/badge/explorer-mainnet-success"></a>
   <a href="https://testnet.manifest.explorers.guru/"><img alt="Explorer: Testnet" src="https://img.shields.io/badge/explorer-testnet-success"></a>
   <a href="https://discord.gg/manifestai"><img alt="Discord" src="https://img.shields.io/badge/discord-join%20us-5865F2"></a>
   <a href="https://x.com/ManifestAIs"><img alt="X (Twitter)" src="https://img.shields.io/badge/follow-%40ManifestAIs-black"></a>
@@ -28,8 +28,10 @@ Key ideas:
 
 - 🌐 **Website:** https://manifest.network/
 - 📚 **Network Docs:** https://docs.manifest.network/
+- 🪙 **Alberto Wallet (Mainnet)**: https://wallet.manifest.network/
+- 🧪 **Alberto Wallet (Testnet)**: https://wallet.liftedinit.tech/
 - 💳 **Alberto Wallet Docs:** https://docs.manifestai.org/
-- 🔭 **Explorer (Mainnet):** https://manifest.explorers.guru/
+- 🔭 **Explorer (Mainnet):** https://explorer.manifest.network/
 - 🧪 **Explorer (Testnet):** https://testnet.manifest.explorers.guru/
 
 ## For developers
@@ -40,20 +42,20 @@ Key ideas:
 
 - **Wallet (Alberto)**
   User-friendly access to the network; supports both web2 and web3 sign-in options:
+  - Mainnet: https://wallet.manifest.network/
+  - Testnet: https://wallet.liftedinit.tech/
   - Guide: https://docs.manifestai.org/
 
 - **Explorers**
   Inspect blocks, validators, governance, and transactions:
-  - Mainnet: https://manifest.explorers.guru/
+  - Mainnet: https://explorer.manifest.network/
   - Testnet: https://testnet.manifest.explorers.guru/
-
-- **Ecosystem & research**
-  - Whitepaper: https://manifest.network/site/wp-content/uploads/2025/07/The-Manifest-Network-White-Paper.pdf
 
 ## Community
 
 - 💬 **Discord:** https://discord.gg/manifestai
 - 📰 **X (Twitter):** https://x.com/ManifestAIs
+- 📘 **Facebook:** https://www.facebook.com/the.manifest.network
 - ✍️ **Medium:** https://medium.com/@TheManifestNetwork
 - 💼 **LinkedIn:** https://www.linkedin.com/company/the-manifest-network/
 
