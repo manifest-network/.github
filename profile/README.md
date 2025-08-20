@@ -1,4 +1,7 @@
 <h1 align="center">Manifest Network</h1>
+<p align="center">
+  <a href="#overview"><img src="https://raw.githubusercontent.com/cosmos/chain-registry/00df6ff89abd382f9efe3d37306c353e2bd8d55c/manifest/images/manifest.png" alt="Lifted Initiative" width="100"/></a>
+</p>
 <p align="center"><i>AI-first cloud for the future of intelligent applications.</i></p>
 
 <p align="center">
